@@ -1,0 +1,2 @@
+# admininstartor
+rj.com
